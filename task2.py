@@ -5,7 +5,7 @@ from tkinter import messagebox
 root = Tk()
 # Задаємо розміри вікна
 root.geometry('310x400')
-root.title('Calculator Dolomakin')
+root.title('Calculator Radchenko')
 root['bg']='lightgreen'
 # Функція натискання на клавіші, зроблено для того, щоб можна було вводити дані в калькулятор задопомогою клавіатури
 # Також можна Вводити (+ - * /), а також натискати =.
